@@ -1,0 +1,13 @@
+name: sightwords
+version: 0.1.0
+
+authors:
+  - Louis Tran <tran.louis@gmail.com>
+
+targets:
+  sightwords:
+    main: src/sightwords.cr
+
+crystal: 0.23.1
+
+license: MIT
